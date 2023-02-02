@@ -47,12 +47,13 @@ Travut 정식 출시를 위에 기존 Netrue 컨설팅 그룹에서 분리됨. �
 
 - Netrue 컨설팅 그룹 (2019.03 ~ 2019.12)  
 신규 아이템 개발을 위하여 Full-Stack개발자로 참여. 
-    - 'Travut' 서비스 정의
+    - Travut 서비스 정의
         - 자료조사 및 인터뷰 등을 활용한 여행자의 니즈 파악
         - 사전조사와 팀간의 협의를 통해 기술스택 정의
-    - 'Travut' MVP 개발
+    - Travut MVP 개발
         - 개발 표준 정의
         - DB 아키텍쳐 정의
+    - Travut [상세](https://github.com/KukKim/portfolio/blob/master/Project/TRAVUT/portfolio.md)
     - **기술 스택** - JavaScript, React Native, AWS Amplify, AWS AppSync, AWS DynamoDB
 
 - Creation Pot (2017.03 ~ 2017.09)  
