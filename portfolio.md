@@ -1,5 +1,4 @@
-## DK's
-# Portfolio  
+# DK's Portfolio  
 
 
 ## About me
@@ -7,26 +6,9 @@ Name - 김동국
 Birth - 1989.12.14  
 E-mail - kukkim89@gmail.com  
 Phone - 010.9167.5124  
-Github
-- <https://github.com/vorti7/bamsae>
-- <https://github.com/KukKim>
-
-## Eduations
-광운대학교 컴퓨터 소프트웨어공학 전공 학사 (2008.03 ~ 2016.08)
-
-## Experiences
-멀티캠퍼스 딥러닝 기반의 빅데이터 분석 전문가 과정 (2018.04 ~ 2018.09)  
-T-아카데미 안드로이드 개발자 전문가 과정 (2013.01 ~ 2013.06)
-
-
-## Projects
-- 밤새 (2018.08 ~2018.09) [Code](https://github.com/vorti7/bamsae)  
-멀티캠퍼스에서 '딥러닝 기반의 빅데이터 분석 전문가 과정'을 수료하면서 팀을 이루어 공공데이터와 다음 맵API 를 통해서 다양한 문화활동을 위한 장소를 추천해주는 웹서비스를 구현
-    - **기술 스택** - Python, Django, SQLite
-
-- Couple Alarm (2013.03 ~ 2013.06)  
-T아카데미에서 ‘안드로이드 개발자 전문가 과정’을 수료하면서 메시지를 이용한 기능성 알람어플리케이션 ‘Couple Alarm’을 구현
-    - **기술 스택** - Android
+<!-- Github
+- <https://github.com/vorti7>
+- <https://github.com/KukKim> -->
 
 ## Career
 - Redbik (2019.12 ~ 2022.09)  
@@ -66,6 +48,22 @@ Travut 정식 출시를 위에 기존 Netrue 컨설팅 그룹에서 분리됨. �
 4명이 모여 안드로이드 개발을 활용한 창업.
 잠금화면을 이용한 영어학습앱 'FindnLock'(후에 '외움'이라는 이름으로 변경됨)을 만들게 되었으며, 이 후로도 계속 영어학습에 관련된 서비스를 개발하게 됨.
 
+## Eduations
+광운대학교 컴퓨터 소프트웨어공학 전공 학사 (2008.03 ~ 2016.08)
+
+## Experiences
+멀티캠퍼스 딥러닝 기반의 빅데이터 분석 전문가 과정 (2018.04 ~ 2018.09)  
+T-아카데미 안드로이드 개발자 전문가 과정 (2013.01 ~ 2013.06)
+
+
+## Projects
+- 밤새 (2018.08 ~2018.09) [Code](https://github.com/vorti7/bamsae)  
+멀티캠퍼스에서 '딥러닝 기반의 빅데이터 분석 전문가 과정'을 수료하면서 팀을 이루어 공공데이터와 다음 맵API 를 통해서 다양한 문화활동을 위한 장소를 추천해주는 웹서비스를 구현
+    - **기술 스택** - Python, Django, SQLite
+
+- Couple Alarm (2013.03 ~ 2013.06)  
+T아카데미에서 ‘안드로이드 개발자 전문가 과정’을 수료하면서 메시지를 이용한 기능성 알람어플리케이션 ‘Couple Alarm’을 구현
+    - **기술 스택** - Android
 ## Skills
 - Language
     - Javascript ( **★★★★☆** )
