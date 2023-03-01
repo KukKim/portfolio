@@ -70,17 +70,17 @@ T아카데미에서 ‘안드로이드 개발자 전문가 과정’을 수료�
     - Python ( **★★★★☆** )
     - Java ( **★★★☆☆** )
 - Front-end
-    - ReactJS ( **★★☆☆☆** )
+    - ReactJS ( **★★★☆☆** )
     - React-native ( **★★★★☆** ) 
 - Back-end
     - Node.js ( **★★★★☆** )
     - Django ( **★★★☆☆** )
     - Flask ( **★★★☆☆** )
 - DB
-    - MySQL ( **★★☆☆☆** )
-    - AWS Aurora ( **★★☆☆☆** )
+    - MySQL ( **★★★☆☆** )
+    - AWS Aurora ( **★★★☆☆** )
     - SQLite ( **★★☆☆☆** )
-    - MongoDB ( **★★★☆☆** )
+    - MongoDB ( **★★★★☆** )
     - AWS DynamoDB ( **★★★★★** )
 - 기타  
 GraphQL, Apollo Client, AWS Amplify, AWS Appsync, AWS Aurora, AWS Cognito, AWS Lambda, AWS S3, Firebase Authentication, Firebase Push notification, Bitbucket, Microsoft Codepush, Google maps API
