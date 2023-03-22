@@ -25,7 +25,7 @@ Travut 정식 출시를 위에 기존 Netrue 컨설팅 그룹에서 분리됨. �
     - 여행자/가이드 매칭 알고리즘 개선
     - 가이드 결제기능(paypal / eximbay) 업데이트 및 정산기능 업데이트
     - 마케팅을 위한 쿠폰 및 할인 기능 업데이트
-    - **기술 스택** - JavaScript, React Native, ReactJS, AWS Amplify, AWS AppSync, AWS Lambda, AWS DynamoDB, Aurora DB, FCM(Firebase Cloud Messaging), CodePush, Google Maps API, AWS S3
+    - **기술 스택** - JavaScript, React Native, ReactJS, AWS Amplify, AWS AppSync, AWS Lambda, AWS DynamoDB, Aurora DB, FCM(Firebase Cloud Messaging), CodePush, AWS S3, GraphQL, Apollo-client
 
 - Netrue 컨설팅 그룹 (2019.03 ~ 2019.12)  
 신규 아이템 개발을 위하여 Full-Stack개발자로 참여. 
@@ -36,7 +36,7 @@ Travut 정식 출시를 위에 기존 Netrue 컨설팅 그룹에서 분리됨. �
         - 개발 표준 정의
         - DB 아키텍쳐 정의
     - Travut [상세](https://github.com/KukKim/portfolio/blob/master/Project/TRAVUT/portfolio.md)
-    - **기술 스택** - JavaScript, React Native, AWS Amplify, AWS AppSync, AWS DynamoDB
+    - **기술 스택** - JavaScript, React Native, AWS Amplify, AWS AppSync, AWS DynamoDB, GraphQL, Apollo-client
 
 - Creation Pot (2017.03 ~ 2017.09)  
 대학졸업 이후 Creation pot 에서 2017.03~2017.09까지 Back-end / FullStack 개발자로서 활동.
@@ -70,7 +70,7 @@ T아카데미에서 ‘안드로이드 개발자 전문가 과정’을 수료�
     - Python ( **★★★★☆** )
     - Java ( **★★★☆☆** )
 - Front-end
-    - ReactJS ( **★★★☆☆** )
+    - ReactJS ( **★★☆☆☆** )
     - React-native ( **★★★★☆** ) 
 - Back-end
     - Node.js ( **★★★★☆** )
@@ -83,5 +83,5 @@ T아카데미에서 ‘안드로이드 개발자 전문가 과정’을 수료�
     - MongoDB ( **★★★★☆** )
     - AWS DynamoDB ( **★★★★★** )
 - 기타  
-GraphQL, Apollo Client, AWS Amplify, AWS Appsync, AWS Aurora, AWS Cognito, AWS Lambda, AWS S3, Firebase Authentication, Firebase Push notification, Bitbucket, Microsoft Codepush, Google maps API
+GraphQL, Apollo Client, AWS Amplify, AWS Appsync, AWS Aurora, AWS Cognito, AWS Lambda, AWS S3, Firebase Authentication, Firebase Push notification, Microsoft Codepush, Google maps API
 ***

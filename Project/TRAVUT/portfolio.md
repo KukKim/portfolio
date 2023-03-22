@@ -1,7 +1,8 @@
 # TRAVUT  
 
+[Travut ppt 링크](https://docs.google.com/presentation/d/19c48fWu7lhhnmsLZXPzPRRUia4t1vdar7DOyV1NPG-E/edit#slide=id.g215ea7d52b3_0_895)
 
-### TRAVUT 소개
+### TRAVUT 소개 
 Travut은 여행자와 가이드를 매칭하는 플랫폼 서비스입니다. 기존 여행사에서 제공하는 틀에 박힌 패키지 여행을 벗어나 여행자와 가이드가 직접 커뮤니케이션을 하도록 함으로써 가이드가 여행자가 원하는 맞춤서비스를 제공하는 것을 목적으로 두고 있습니다. 서비스 내에서 가이드는 집사(Vutler)로 지칭하여 믿음이 가는 서비스를 제공하는 것을 목표로 했습니다.  
 [Traveler Playstore](https://play.google.com/store/apps/details?id=com.travutspottraveler)  
 [Vuttler Playstore](https://play.google.com/store/apps/details?id=com.travutspotprovider)
